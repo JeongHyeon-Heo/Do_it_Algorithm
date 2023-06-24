@@ -1,8 +1,3 @@
-# Do it! 자료 구조와 함께 배우는 알고리즘 입문
-* 해당 예제 https://drive.google.com/file/d/1-5Fr5Tvu1D4LTCCV2Wh3rzlnap8zDbEr/view
-* 참고 http://www.easyspub.co.kr/71_Menu/SearchMoreList/PUB
-
-
 ## 01-1 알고리즘이란 ? 
 * 어떤 문제를 해결하기 위한 절차로, 명확하게 정의되고 순서가 있는 유한 개의 규칙으로 이루어진 집합
 
